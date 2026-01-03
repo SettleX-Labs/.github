@@ -7,9 +7,9 @@
 
   **The Clearing Layer for Crypto**
 
-  [![Waitlist](https://img.shields.io/badge/Join-Waitlist-blue?style=for-the-badge&logo=rocket)](https://settlex.fi/)
-  [![Website](https://img.shields.io/badge/Website-settlex.fi-success?style=for-the-badge)](https://settlex.fi/)
-  [![Twitter](https://img.shields.io/badge/Twitter-@settlex__fi-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/settlex_fi)
+[![Website](https://img.shields.io/badge/Website-settlex.fi-5C2D91?style=for-the-badge&logo=rocket)](https://settlex.fi/)
+[![Email](https://img.shields.io/badge/Contact-team@settlex.fi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:team@settlex.fi)
+[![X](https://img.shields.io/badge/Follow-@settlex__fi-000000?style=for-the-badge&logo=x)](https://x.com/settlex_fi)
 
   <p align="center">
     <b>Stop overpaying for cross-chain bridging.</b> <br />
